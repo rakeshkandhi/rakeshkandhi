@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkandhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakeshkandhi" alt="rakeshkandhi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rakeshkandi8" target="blank"><img src="https://img.shields.io/twitter/follow/rakeshkandi8?logo=twitter&style=for-the-badge" alt="rakeshkandi8" /></a> </p>
 
 - 🌱 I’m currently learning **Data science and Machine learning**
 
 - 📫 How to reach me **rakeshkandhi1432@gmail.com**
+
+-  [WhatsApp](https://api.whatsapp.com/send/?phone=917416061432&text&type=phone_number)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

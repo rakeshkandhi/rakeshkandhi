@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj643" /> </p>
 
-- 🔭 I’m currently working on **Job-Portal (MERN-Stack Project)**
+- 🔭 I’m currently working on **Tableau projects**
 
 - 🌱 I’m currently learning **Data science Machine learning**
 
 - 📫 How to reach me **rakeshkandhi1432@gmail.com**
+
+- 📫 WhatsApp me at **(+91) 7416061432**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

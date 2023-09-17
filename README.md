@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rakeshkandhi1432@gmail.com**
 
--  [WhatsApp](https://api.whatsapp.com/send/?phone=917416061432&text&type=phone_number)
+-  [WhatsApp](https://api.whatsapp.com/send?phone=917416061432&text=Hello%20there,%20I%20hope%20you%20are%20doing%20well!&type=phone_number)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

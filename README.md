@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkandhi" /> </p>
 
+-   🌱 I’m currently learning **Data science and Machine learning**
 
-- 🌱 I’m currently learning **Data science and Machine learning**
+-   📫 How to reach me **rakeshkandhi1432@gmail.com**
 
-- 📫 How to reach me **rakeshkandhi1432@gmail.com**
-
--  [WhatsApp](https://api.whatsapp.com/send?phone=917416061432&text=Hello%20there,%20I%20hope%20you%20are%20doing%20well!&type=phone_number)
+-   [WhatsApp](https://api.whatsapp.com/send?phone=917416061432&text=Hello%20there,%20I%20hope%20you%20are%20doing%20well!&type=phone_number)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

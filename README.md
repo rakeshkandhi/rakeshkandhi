@@ -1,19 +1,62 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kandhi</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">Software Engineer | Full Stack & AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkandhi" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkandhi" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/rakeshkandi8" target="blank"><img src="https://img.shields.io/twitter/follow/rakeshkandi8?logo=twitter&style=for-the-badge" alt="rakeshkandi8" /></a> </p>
+<p align="center">
+  <em>With 2+ years of experience in software engineering, I specialize in building scalable Full Stack web applications and integrating advanced AI capabilities. Currently, I'm diving deep into AI Engineering, leveraging Microsoft AI Foundry to build intelligent, model-driven solutions.</em>
+</p>
 
-- 🌱 I’m currently learning **Data science and Machine learning**
+---
 
-- 📫 How to reach me **rakeshkandhi1432@gmail.com**
-- [WhatsApp](https://api.whatsapp.com/send?phone=917416061432&text=Hello%20there,%20I%20hope%20you%20are%20doing%20well!&type=phone_number)
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 💻 **Experience:** 2 Years in Software Engineering (Full Stack)
+- 🧠 **Focus Areas:** Full Stack Web Development & AI Engineering
+- ☁️ **AI Tech:** Proficient with **Microsoft AI Foundry**, integrating and deploying state-of-the-art models for real-world applications.
+- 🌱 **Currently Exploring:** Advanced use cases of Generative AI and scalable web architectures.
+- 📫 **Reach me at:** **rakeshkandhi1432@gmail.com** or on [WhatsApp](https://api.whatsapp.com/send?phone=917416061432&text=Hello%20there,%20I%20hope%20you%20are%20doing%20well!&type=phone_number)
+
+### 🛠️ Tech Stack & Tools
+
+#### 🌐 Full Stack Development
 <p align="left">
-<a href="https://linkedin.com/in/rakeshkandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-kandhi-757b7518b" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🧠 AI & Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Foundry" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</p>
+
+#### 🗄️ Database & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshkandhi&show_icons=true&theme=radical" alt="Rakesh's GitHub Stats" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkandhi&layout=compact&theme=radical" alt="Top Languages" height="192"/>
+</p>
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/rakeshkandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-kandhi" height="30" width="40" /></a>
 <a href="https://instagram.com/rakeshkandhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshkandhi" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>

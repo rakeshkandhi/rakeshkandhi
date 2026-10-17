@@ -86,8 +86,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshkandhi&show_icons=true&theme=radical" alt="Rakesh's GitHub Stats" height="192"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkandhi&layout=compact&theme=radical" alt="Top Languages" height="192"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshkandhi&show_icons=true&theme=radical&include_all_commits=true" alt="Rakesh's GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=rakeshkandhi&theme=radical" alt="GitHub Streak" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshkandhi&layout=compact&theme=radical&hide=rust&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 ### 🤝 Connect with me

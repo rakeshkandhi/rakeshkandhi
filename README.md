@@ -16,8 +16,22 @@
 - 💻 **Experience:** 2.5+ Years in Software Engineering (Full Stack & AI)
 - 🧠 **Focus Areas:** Full Stack Web Development, Backend Architecture & Agentic AI
 - 🤖 **AI & Agentic Tech:** Building with **Claude & OpenAI LLMs**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **Microsoft AI Foundry**.
+- 🏆 **Certification:** [**Claude Certified Architect – Foundations (CCA-F)**](https://www.credly.com/badges/b096a4d1-949b-400d-bacb-9daabda00a8e/public_url) (Anthropic, 2026)
 - 🌱 **Currently Exploring:** Agentic workflows, subagent systems, and scalable distributed architectures.
 - 📫 **Reach me at:** **rakeshkandhi1432@gmail.com** or on [WhatsApp](https://api.whatsapp.com/send?phone=917416061432&text=Hello%20there,%20I%20hope%20you%20are%20doing%20well!&type=phone_number)
+
+### 🏆 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/b096a4d1-949b-400d-bacb-9daabda00a8e/public_url" target="_blank">
+    <img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/twitter_thumb_201604_blob" width="130" height="130" alt="Claude Certified Architect – Foundations" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://www.credly.com/badges/b096a4d1-949b-400d-bacb-9daabda00a8e/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Claude_Certified_Architect-Foundations_(CCA--F)-D97706?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Certified Architect – Foundations (CCA-F)" />
+  </a>
+</p>
 
 ### 🛠️ Tech Stack & Tools
 

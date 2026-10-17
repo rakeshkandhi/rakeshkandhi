@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack & AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkandhi" />
+  <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -23,12 +23,14 @@
 
 #### 🧠 Generative AI & Agentic Workflows
 <p align="left">
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Multi--Agent%20Workflows-blueviolet?style=for-the-badge" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-238636?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/RAG%20%26%20Embeddings-FF6F00?style=for-the-badge" alt="RAG & Embeddings" />
-  <img src="https://img.shields.io/badge/Microsoft%20AI%20Foundry-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft AI Foundry" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/AI_Agents-Multi--Agent-blueviolet?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-238636?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-Embeddings-FF6F00?style=for-the-badge" alt="RAG & Embeddings" />
+  <img src="https://img.shields.io/badge/Microsoft_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft AI Foundry" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
 #### ⚙️ Backend & API Engineering
@@ -37,7 +39,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
 </p>
 
 #### 🌐 Frontend Engineering

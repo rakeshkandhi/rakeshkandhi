@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kandhi</h1>
 <h3 align="center">Software Engineer | Full Stack & AI</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakeshkandhi&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <p align="center">
   <em>With 2.5+ years of experience in software engineering, I specialize in building scalable Full Stack web applications, robust backend architectures, and production-ready Agentic AI workflows.</em>

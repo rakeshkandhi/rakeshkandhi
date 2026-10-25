@@ -6,10 +6,17 @@
   <em>With 2.5+ years of experience in software engineering, I specialize in building scalable Full Stack web applications, robust backend architectures, and production-ready Agentic AI workflows.</em>
 </p>
 
+<p align="center">
+  <a href="https://rakeshkandhi.github.io/RAKESH_KANDHI/"><img src="https://img.shields.io/badge/📄_Live_Resume-2563eb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Resume" /></a>
+  <a href="https://rakeshkandhi.github.io/RAKESH_KANDHI/resume.pdf"><img src="https://img.shields.io/badge/📥_Download_PDF-dc2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF" /></a>
+  <a href="https://github.com/rakeshkandhi/RAKESH_KANDHI"><img src="https://img.shields.io/badge/💻_Resume_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Resume Repo" /></a>
+</p>
+
 ---
 
 ### 🚀 About Me
 
+- 📄 **Resume / CV:** [**Live Interactive Resume**](https://rakeshkandhi.github.io/RAKESH_KANDHI/) &bull; [**Download PDF**](https://rakeshkandhi.github.io/RAKESH_KANDHI/resume.pdf)
 - 💻 **Experience:** 2.5+ Years in Software Engineering (Full Stack & AI)
 - 🧠 **Focus Areas:** Full Stack Web Development, Backend Architecture & Agentic AI
 - 🤖 **AI & Agentic Tech:** Building with **Claude & OpenAI LLMs**, **Multi-Agent Orchestration**, **Model Context Protocol (MCP)**, and **Microsoft AI Foundry**.
